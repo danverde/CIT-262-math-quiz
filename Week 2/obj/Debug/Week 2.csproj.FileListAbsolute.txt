@@ -1,0 +1,9 @@
+E:\OneDrive\S6\C#\projects\Week 2\Week 2\bin\Debug\Week 2.exe.config
+E:\OneDrive\S6\C#\projects\Week 2\Week 2\bin\Debug\Week 2.exe
+E:\OneDrive\S6\C#\projects\Week 2\Week 2\bin\Debug\Week 2.pdb
+E:\OneDrive\S6\C#\projects\Week 2\Week 2\obj\Debug\Week 2.csprojResolveAssemblyReference.cache
+E:\OneDrive\S6\C#\projects\Week 2\Week 2\obj\Debug\Week_2.Form1.resources
+E:\OneDrive\S6\C#\projects\Week 2\Week 2\obj\Debug\Week_2.Properties.Resources.resources
+E:\OneDrive\S6\C#\projects\Week 2\Week 2\obj\Debug\Week 2.csproj.GenerateResource.Cache
+E:\OneDrive\S6\C#\projects\Week 2\Week 2\obj\Debug\Week 2.exe
+E:\OneDrive\S6\C#\projects\Week 2\Week 2\obj\Debug\Week 2.pdb
